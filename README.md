@@ -56,6 +56,7 @@ AI-based dirt detection using camera module
 Automatic docking and charging
 Multi-room mapping
 Integration with smart home ecosystems
+![miniproject img1](https://github.com/user-attachments/assets/0ca5ace2-6f25-402f-b3fa-d3e72f635381)
 
 
 
